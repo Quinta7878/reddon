@@ -1,3 +1,15 @@
+https://semutaspal.com/gambar-bunga/
+https://semutaspal.com/gambar-pemandangan/
+https://semutaspal.com/translate-bahasa-jawa/
+https://semutaspal.com/translate-bahasa-bali/
+https://semutaspal.com/translate-bahasa-sunda/
+https://semutaspal.com/translate-bahasa-korea/
+https://semutaspal.com/translate-aksara-jawa/
+https://semutaspal.com/translate-aksara-bali/
+https://semutaspal.com/translate-aksara-sunda/
+https://semutaspal.com/translate-huruf-hangul/
+https://semutaspal.com/asean/
+
 Usage
 =====
 
