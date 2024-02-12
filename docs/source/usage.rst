@@ -9,6 +9,11 @@ https://semutaspal.com/translate-aksara-bali/
 https://semutaspal.com/translate-aksara-sunda/
 https://semutaspal.com/translate-huruf-hangul/
 https://semutaspal.com/asean/
+https://semutaspal.com/iklan/
+
+https://bit.ly/3STPBYh
+https://bit.ly/49tLckr
+https://bit.ly/49tKXWl
 
 Usage
 =====
