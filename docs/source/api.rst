@@ -3,9 +3,11 @@ API
 
 https://akam.bing.com/images/search?q=site%3Asemutaspal.com%2Ftranslate-aksara-jawa%2F&first=1
 https://www.bing.com/images/search?q=site%3Asemutaspal.com%2Ftranslate-aksara-sunda%2F&first=1
-
+https://4.bing.com/images/search?q=translate+aksara+sunda+site%3Asemutaspal.com&go=Cari&qs=ds&form=QBIR
 https://akam.bing.com/images/search?q=site%3Asemutaspal.com%2Ftranslate-bahasa-jawa%2F&first=1
 https://www.bing.com/images/search?q=site%3Asemutaspal.com%2Ftranslate-bahasa-jawa%2F&first=1
+https://4.bing.com/images/search?q=translate+aksara+bali+site%3Asemutaspal.com&go=Cari&qs=ds&form=QBIR
+
 https://search.yahoo.co.jp/search?p=semutaspal.com%2Ftranslate-bahasa-jawa
 https://search.yahoo.com/search?p=semutaspal.com%2Ftranslate-bahasa-jawa&guccounter=1
 https://in.search.yahoo.com/search?p=semutaspal.com%2Ftranslate-bahasa-jawa&guccounter=1
