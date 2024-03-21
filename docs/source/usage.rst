@@ -1,19 +1,4 @@
-https://semutaspal.com/gambar-bunga/
-https://semutaspal.com/gambar-pemandangan/
-https://semutaspal.com/translate-bahasa-jawa/
-https://semutaspal.com/translate-bahasa-bali/
-https://semutaspal.com/translate-bahasa-sunda/
-https://semutaspal.com/translate-bahasa-korea/
 https://semutaspal.com/translate-aksara-jawa/
-https://semutaspal.com/translate-aksara-bali/
-https://semutaspal.com/translate-aksara-sunda/
-https://semutaspal.com/translate-huruf-hangul/
-https://semutaspal.com/asean/
-https://semutaspal.com/iklan/
-
-https://bit.ly/3STPBYh
-https://bit.ly/49tLckr
-https://bit.ly/49tKXWl
 
 Usage
 =====
@@ -40,6 +25,8 @@ you can use the ``lumache.get_random_ingredients()`` function:
 The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
 or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
 will raise an exception.
+
+https://bit.ly/49tKXWl
 
 .. autoexception:: lumache.InvalidKindError
 
