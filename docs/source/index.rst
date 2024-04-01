@@ -9,6 +9,7 @@ and offers a *simple* and *intuitive* API.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
+https://hey.link/g5rMq
 https://semutaspal.com/ubah-pembayaran-google-play/
 
 .. note::
