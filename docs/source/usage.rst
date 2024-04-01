@@ -1,3 +1,4 @@
+https://issuu.com/harapsn
 https://semutaspal.com/translate-aksara-jawa/
 
 Usage
